@@ -110,6 +110,4 @@ An intelligent email scanning system that automatically detects and segregates p
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.# phishingemaildetector

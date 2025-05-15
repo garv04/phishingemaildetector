@@ -1,6 +1,6 @@
 # Email Server Settings
 imap_server: imap.gmail.com
-email_address: garvgdsc@gmail.com
+email_address: 
 password:  # For Gmail, use App Password
 
 # Folder Settings
